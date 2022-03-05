@@ -4,17 +4,14 @@
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFriox&count_bg=%234CAF50&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hello%21&edge_flat=false)](https://hits.seeyoufarm.com)
   
-  <br>
-  
-  <img style="padding: 50" align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kazuha2048">
-    
-  ---
   :star: Hi, there! :star:
   ---
   안녕하세요, 대학생 개발자 Friox입니다<br>
   깔끔한 코드를 짜기위해 열심히 노력중입니다!<br>
   현재 SwiftUI를 배우고 있습니다<br>
     
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kazuha2048">
+  
   <br>
 
   <div align="left">
