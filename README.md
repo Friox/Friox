@@ -8,12 +8,12 @@
   
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kazuha2048">
   
+  <br>
+  
   :star: Hi, there! :star:
   ---
   안녕하세요, 대학생 개발자 Friox입니다<br>
-  깔끔한 코드를 짜기위해 열심히 노력중입니다<br>
-  모바일 프로그래밍에 관심이 많습니다<br>
-  현재 SwiftUI에 집중하고 있습니다<br>
+  깔끔한 코드를 짜기위해 열심히 노력중입니다!<br>
 
   <br>
 
