@@ -16,7 +16,7 @@
 
   <div align="left">
     
-  ## Device
+  ## :computer: Device
   + PC(Notebook) : GIGABYTE Aero 15 / :apple: Macbook Air (2020, M1)
   + Server(NAS) : Synology DS220+ (6G)
   + Mobile
